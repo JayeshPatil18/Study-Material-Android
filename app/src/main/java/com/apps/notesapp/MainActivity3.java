@@ -14,7 +14,7 @@ import java.net.URLEncoder;
 public class MainActivity3 extends AppCompatActivity {
 
     WebView pdfView;
-    String fileUrl = "https://drive.google.com/file/d/1wGUtDlJw2r-6qNUytnvq7bA-N2d80UC0/view";
+    String fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,19 +31,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -53,19 +53,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -75,19 +75,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -97,19 +97,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -119,19 +119,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -141,19 +141,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -163,19 +163,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
@@ -185,19 +185,19 @@ public class MainActivity3 extends AppCompatActivity {
 
                 switch (res) {
                     case "notes":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "books":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "questions":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
 
                     case "documentation":
-                        fileUrl = "https://drive.google.com/drive/u/0/folders/1F_zMyeN14RZxp2lqUMVLaELi3HtXSNhP";
+                        fileUrl = "https://drive.google.com/file/d/1JJ9QKNq250PtUV7EMEIz1PBRBc7a5tV_/view?usp=drive_open";
                         break;
                 }
 
